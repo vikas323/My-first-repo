@@ -1,2 +1,3 @@
-# music--site
-I developed this music website using HTML CSS and Javascript. To see the website visit and listening some music and enjoy.
+my first repo
+I developed here website using HTML CSS and Javascript. To see the website visit and enjoy.
+Author- Vikas sahu
